@@ -21,13 +21,6 @@ ssh root@192.168.8.1
 
 ![CRT](CRT.png)
 
-在root目录下创建packages文件夹：
-
-```
-mkdir packages
-cd packages
-```
-
 在windows中解压这个包，里面含有必须的ipk文件，会得到35个文件
 
 ![packages](packages.png)
