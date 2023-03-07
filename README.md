@@ -31,7 +31,9 @@ ssh root@192.168.8.1
 
 图是单个上传的
 
-建议使用命令，并输入密码：
+建议使用命令，并输入密码；
+
+重新打开一个cmd窗口！！！
 
 ```
 scp -r D:\Users\Downloads\packages
