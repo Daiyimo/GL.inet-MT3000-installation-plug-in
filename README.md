@@ -1,5 +1,7 @@
 # GL.inet-MT3000-installation-plug-in
 # GL.inet-MT3000安装SSR plus、passwall2以及小蓝猫
+## 安装包在右边releases-tags-zip-packages.zip！！！
+
 
 谨以此记录MT3000的安装步骤，仅供学习参考！！！
 
